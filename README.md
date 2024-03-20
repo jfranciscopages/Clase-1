@@ -1,5 +1,5 @@
 # PNT2 Miercoles
 
-# Profesor: Matias
+# Profesor: Matías Duro
 
-# Alumno: 
+# Alumno: Juan Francisco Pagés
